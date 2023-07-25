@@ -1,4 +1,3 @@
-
-function changeBackgroundColor(clr) {
-	document.body.style.backgroundColor = clr;
+function changeBackgroundColor(color) {
+	document.getElementById('chcolor').style.color = Yellow
 }
